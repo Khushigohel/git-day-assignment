@@ -1,0 +1,5 @@
+Add login functionality
+Add Add to cart functionality
+Add online Payment functionality
+Add search option functionality
+Add chatbot functionality
